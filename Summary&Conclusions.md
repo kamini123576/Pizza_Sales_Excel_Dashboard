@@ -24,16 +24,21 @@ The following analyses were conducted using SQL queries:<br>
 . Total Pizzas Sold: Sum of pizzas sold.<br>
 . Total Orders Placed: Count of distinct orders.<br>
 . Average Pizzas Per Order: Ratio of pizzas sold to orders.<br>
+
 **B. Trend Analysis** <br>
 . Daily Trend: Orders analyzed by weekdays.<br>
 . Hourly Trend: Orders analyzed by hour.<br>
+
 **C. Sales by Category and Size** <br>
 . % of Sales by Pizza Category: Contribution of each pizza category to total revenue.<br>
 . % of Sales by Pizza Size: Contribution of each size to total revenue.<br>
+
 **D. Performance by Products** <br>
 . Total Pizzas Sold by Category: Pizza sales by category (filtered by month).<br>
 . Top 5 Best Sellers: Top-performing pizzas based on quantity sold.<br>
 . Bottom 5 Best Sellers: Least-performing pizzas based on quantity sold.<br>
+
+
 **3. Dashboard Creation** <br>
 Using the insights derived, a dashboard was built to visualize:<br>
 . Sales trends over time (daily and hourly).<br>
